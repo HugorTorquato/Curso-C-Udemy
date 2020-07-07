@@ -1,0 +1,59 @@
+
+Identação automática: CTRL + K + D
+Rodar o projeto: CTRL + F5
+Fonte : CTRL + Mouse Scroll
+
+
+
+Criar um projeto:
+
+Arquivo > Novo > Projeto > Aplicativo de Console (.NET Core) > Seleciona pasta e Nome do arquivo
+
+Arquivo .cs é o código padrão
+
+
+Estrutura Básica:
+
+Arquivo
+    - Arquivo .sln            -> Arquivo da solução, pro emio dele que abre o Projeto
+    - Arquivo .csproj         -> Arquivo de configuração do projeto, só altera quando tem de adicionar uma dependência
+    - Arquivo principal .cs   -> Arquivo da linguagem C#
+    - Subpastas obj e bin     -> Guarda os arquivos compilados, depois de compilar com o CTRL + F5
+
+Programa.cs 
+    - Cláusulas using: 
+        referências a outros namespaces  -> Ref para o namespace chamado System, contem funções básicas de manipulação de programa ( tem de colocar para funcionar)
+    - namespaces                         -> Um agrupamento de classes relacionadas ( Boa prática e organização)
+    - Classe                             -> Todo código finte tem de estar dentro de uma classe. Por organização, o nome da classe vai com o mesmo nome do arquivo
+    - Método                             -> 
+    - Static Void Main(string[] args)    -> Declaração padrão para identificar o entrepoint da aplicação, onde a aplicação começa. Tudo que estiver dentro vai ser execultado primeiro
+
+
+
+Convenção de Nomes:
+
+    Qaundo é um atributo dentro da classe, começar com  "_" e letra minuscula
+    Quando for namespace, nome de classe.... Começar com Letra maiuscula
+
+Operadores de atribuição:
+
+    =  -> Recebe
+    += -> Recebe o valor + 2
+    -= -> Recebe o valor -2
+    *= -> Recebe o valor multiplicado de 2
+    /= -> Recebe o valor dividido de 2
+    %= -> Recebe o mod do valor
+
+    ++ -> Incrementa o valor de 1
+    -- -> Decrementa o valor de 1
+
+Operadores Aritméticos
+
+    + -> Adição
+    - -> Sbtração
+    * -> Multiplicação
+    / -> Divisão
+    % -> Resto da divisão ( mod)
+
+
+

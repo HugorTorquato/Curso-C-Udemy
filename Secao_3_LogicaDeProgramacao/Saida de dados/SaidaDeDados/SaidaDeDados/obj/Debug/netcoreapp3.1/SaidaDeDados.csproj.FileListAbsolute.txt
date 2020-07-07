@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.genruntimeconfig.cache

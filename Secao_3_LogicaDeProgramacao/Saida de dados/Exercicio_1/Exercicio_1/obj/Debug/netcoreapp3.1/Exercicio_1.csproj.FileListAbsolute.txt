@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\bin\Debug\netcoreapp3.1\Exercicio_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção 3 - Recapitulação de Lógica de Programação\Saida de dados\Exercicio_1\Exercicio_1\obj\Debug\netcoreapp3.1\Exercicio_1.genruntimeconfig.cache
