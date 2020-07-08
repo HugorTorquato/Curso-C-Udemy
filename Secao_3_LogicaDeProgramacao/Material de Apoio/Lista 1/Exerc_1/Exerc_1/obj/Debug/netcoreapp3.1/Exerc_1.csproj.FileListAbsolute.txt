@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\bin\Debug\netcoreapp3.1\Exerc_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\Exerc_1\Exerc_1\obj\Debug\netcoreapp3.1\Exerc_1.genruntimeconfig.cache

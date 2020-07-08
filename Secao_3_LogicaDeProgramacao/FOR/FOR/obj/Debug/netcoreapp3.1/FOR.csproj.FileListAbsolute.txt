@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\bin\Debug\netcoreapp3.1\FOR.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\FOR\FOR\obj\Debug\netcoreapp3.1\FOR.genruntimeconfig.cache

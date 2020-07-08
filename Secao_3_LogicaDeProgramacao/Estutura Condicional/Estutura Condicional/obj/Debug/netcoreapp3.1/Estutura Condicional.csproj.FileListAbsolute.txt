@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\bin\Debug\netcoreapp3.1\Estutura Condicional.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Estutura Condicional\Estutura Condicional\obj\Debug\netcoreapp3.1\Estutura Condicional.genruntimeconfig.cache

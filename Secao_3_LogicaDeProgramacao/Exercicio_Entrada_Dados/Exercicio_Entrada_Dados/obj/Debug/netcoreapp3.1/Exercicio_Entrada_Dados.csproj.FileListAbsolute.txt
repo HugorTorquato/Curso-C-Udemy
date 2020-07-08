@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\bin\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Exercicio_Entrada_Dados\Exercicio_Entrada_Dados\obj\Debug\netcoreapp3.1\Exercicio_Entrada_Dados.genruntimeconfig.cache

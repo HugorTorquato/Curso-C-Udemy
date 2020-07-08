@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\bin\Debug\netcoreapp3.1\eXEC_5.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Resolução dos exercícios\eXEC_5\eXEC_5\obj\Debug\netcoreapp3.1\eXEC_5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\bin\Debug\netcoreapp3.1\Exec_4.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_3_LogicaDeProgramacao\Material de Apoio\Lista 4\Exec_4\Exec_4\obj\Debug\netcoreapp3.1\Exec_4.genruntimeconfig.cache
