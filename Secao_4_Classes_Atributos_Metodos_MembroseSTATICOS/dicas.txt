@@ -1,0 +1,56 @@
+
+
+Classe:
+    -> Uma entidade representativa, definição de um tipo
+    -> Objetos - > Instâncias da classe
+
+    -> Tipo estruturado que pode conter membros
+        -> Atributos = Dados / Campos
+        -> Métodos   = Funções / Operações
+
+    ->Pode prover outros recursos
+        -> Construtores
+        -> Sobrecarga
+        -> Encapsulamento
+        -> Herança
+        -> Polimorfismo
+
+    -> Exemplos
+        -> entidade
+        -> Serviços ( Contem serviços relacionados a um grupo )
+        -> Controladores
+        -> Utilitários
+        -> Outros ( Views, Repositórios, Gerenciadores )
+
+
+    ->  A classe também é um tipo, respeitando os Atributos
+        -> Ref. para um objeto composto
+        -> comando NEW -> Serve para instanciar as variáveis -> Alocação dinâmica ( x = new NOME_CLASSE();)
+        -> Cria na memória, em uma área chamada "Heap", na variável x do exemplo anterior tem o endereço na memória; 
+        -> Uma ref. para o objeto em si.
+
+Método:
+
+    -> Delega as operações para as classes
+
+UML
+
+    -> Ferramenta para visualizar as classes no projeto
+
+ToString
+
+    -> Toda classe é uma subclasse de Object, logo toda classe é um Object
+        -> ToString -> Converte o objeto para string, declara dentro da classe
+
+Membros Estáticos
+
+    -> Membros de classe ( Atributo, método ...)
+    -> Não precisam de objetos para serem chamados, chamado pelo próprio nome da classe
+    -> Aplicações comuns
+        -> Classes utilitárias -> Fornecemoperações simples que podem ser chamadas de forma isolada
+        -> Declaração de constantes
+    -> Pode ter classe estática, que não são instanciadas
+    
+    -> Exemplo:
+        -> Math.Sqlt()
+    

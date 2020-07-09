@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\bin\Debug\netcoreapp3.1\Membros Estáticos.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.genruntimeconfig.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Membros Estáticos\Membros Estáticos\obj\Debug\netcoreapp3.1\Membros Estáticos.csprojAssemblyReference.cache

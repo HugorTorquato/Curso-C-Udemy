@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\bin\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Segundo_Projeto_Exemplo\Segundo_Projeto_Exemplo\obj\Debug\netcoreapp3.1\Segundo_Projeto_Exemplo.genruntimeconfig.cache

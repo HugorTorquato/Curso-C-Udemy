@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\bin\Debug\netcoreapp3.1\Exec_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Apoio\Exec_Fixa\Exec_1\Exec_1\obj\Debug\netcoreapp3.1\Exec_1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\bin\Debug\netcoreapp3.1\Criando uma classe.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\Criando uma classe\Criando uma classe\obj\Debug\netcoreapp3.1\Criando uma classe.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\bin\Debug\netcoreapp3.1\SemOrientadoObjeto.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\SemOrientadoObjeto\SemOrientadoObjeto\obj\Debug\netcoreapp3.1\SemOrientadoObjeto.genruntimeconfig.cache
