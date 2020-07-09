@@ -70,7 +70,7 @@ namespace Fixacao
 
         public void DepInic()
         {
-            Saldo += DepInicial;
+            Deposito(DepInicial);
         }
 
         public void Deposito(double dep)

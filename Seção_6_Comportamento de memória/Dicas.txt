@@ -1,0 +1,48 @@
+
+
+Tipos de Ref vs. Tipo Valor
+
+    -> Ref  
+        -> Tipo classe são ponteiros para caixas
+        
+        -> Orientação Objeto
+
+    -> Valor
+        -> Structs são tipo Valor
+            -> Inicializar com valores ou dando o comando new
+            -> Quando alocamos com new são atribuidos valores padrão
+                -> num -> 0
+                -> bool -> False
+                -> char -> caracter código 0
+                -> objeto -> null
+            -> Quando variável apenas declarada, e não instanciada, inicia em estado não iniciados
+        -> Pode criar os próprios tipos valores
+
+Garbage Collector
+
+    -> Automatiza o gerenciamento de memória de um programa em execulção
+    -> Monitora os objetos alocados dinamicamente no programa ( heap) e desloca aqueles que não estão mais sendo utilizados
+
+    -> Quando um objeto perde suas referências, ele detecta isso e logo desaloca esse espaço na memoria
+
+Nullable
+
+    -> Recurso do C# para dados tipo struct ( valor ) possam receber valor nulo;
+    -> Uso:
+        -> Campo de Banco de Dados que podem ser nulos
+        -> Dados e parâmetros opcionais
+    -> Não pode ser atribuido para uma struct comum
+    
+    -> Operações
+        -> GetValueOrDefault -> Pega o valor, se não existir pega o valor padrão
+        -> HasValue          -> Vai dizer se existe ou não o valor
+        -> Value             -> Pega o valor, caso não tenha valor quebra a aplicação
+
+    -> Operador de coalescência Nula (??)
+        -> double? x = null;
+        -> double y = x ?? 0.0;  -> quer jogar o valor de x para y, caso seja nulo, joga outro valor
+
+
+Vetores
+
+    -> 

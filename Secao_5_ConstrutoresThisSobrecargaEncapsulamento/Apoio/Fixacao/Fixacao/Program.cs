@@ -11,6 +11,7 @@ namespace Fixacao
         {
             //Instanciação padrão
             //Conta Cont1 = new Conta();
+            Conta Cont1;
 
             // Entrada de dados
             Console.Write(" Entre o número da conta : ");
@@ -20,15 +21,18 @@ namespace Fixacao
             Console.Write(" Haverá depósito inicial (s/n)? ");
             char verif = char.Parse(Console.ReadLine());
             double depoInicial = 0;
-            if (verif == 's')
+            if (verif == 's' || verif == 'S')
             {
                 Console.Write(" Entre o valor de depósito inicial : ");
                 depoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                // Instanciação depois dos dados
+                Cont1 = new Conta(nomeconta, numconta, depoInicial);
             }
-
-            // Instanciação depois dos dados
-            Conta Cont1 = new Conta(nomeconta, numconta, depoInicial);
-
+            else
+            {
+                // Instanciação depois dos dados
+                Cont1 = new Conta(nomeconta, numconta);
+            }
             
             Console.WriteLine(" Dados da conta: ");
             Console.WriteLine(Cont1);

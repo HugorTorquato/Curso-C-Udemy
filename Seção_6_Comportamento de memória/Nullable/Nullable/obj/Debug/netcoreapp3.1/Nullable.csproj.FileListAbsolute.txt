@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
