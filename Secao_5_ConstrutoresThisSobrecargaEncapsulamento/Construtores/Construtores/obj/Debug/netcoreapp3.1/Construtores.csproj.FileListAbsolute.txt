@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

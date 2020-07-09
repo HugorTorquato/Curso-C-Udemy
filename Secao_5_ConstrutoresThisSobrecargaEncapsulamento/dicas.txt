@@ -1,0 +1,73 @@
+
+Construtores
+    -> Exceculta no momento em que ocorre a intanciação da classe
+    -> Usos comins
+        -> Iniciar valores do atributo
+        -> Permitir ou obrigar que o objeto receba dados ou dependências na instanciação
+    -> Se não especificado, tem o padrão -> (Produto p = new Produto();) -> Esse que não recepe parÂmetro
+    -> Especificar mais de um construtor na mesma classe ( Sobrecarga )
+
+    -> Quando sem construtores, os valores são instanciados com NULL p/ string e 0 para números
+    -> Com o intuito de evitar isso, são feito os construtores
+
+    -> Operação qeu tem o mesmo nome da classe
+
+Sobrecarga
+
+    -> Oferece mais de uma operação com o mesmo nome com diferentes listas de parÂmetros
+    -> Não altera os mesmos atributos
+
+    -> o que determina qual será usado, são os parâmetros de entrada
+    -> Quando especifica, o construtor padrão é proibido
+        -> Caso queria usar, cria mais uma sobrecarga vazia
+
+    -> Linguagem Alternativa
+        -> Se já tiver construtor não pode, tem que declarar o padrão para a linguagem funcionar
+
+This
+
+    -> Ref para o próprio objeto
+    -> Usos
+        -> Diferenciar atributos de variáveis locais  (Java)
+        -> Referencias outro construtor em um construtores
+        -> Passar o próprio objeto como argumento na chamada de um método ou construtor
+
+    -> Chama a variávei do objeto, e não a local
+
+Encapsulamento
+
+    -> Esconde determinada parte do código e disponibiliza as operações básicas para o usiário
+    -> Manter um estado consistente e a propria classe tem de garantir isso
+
+    -> Opção 1
+        -> Todo atributo é definido como private
+        -> Implementa metodo get/set para cada atributo, conforme regras
+            -> Get -> Obtem valores
+            -> Set -> Seta valor
+        
+Propriedades
+
+    -> Definições de métodos encapsulados com linguagem de atributos e não métodos
+
+    -> Auto Propriedades
+        -> Forma simplificada de declarar propriedades que não necessitem lógicas particulares para operações de get e set
+        -> public double NOME { get; private set;} -> Obtem o preço mas não permite setalo
+
+        -> Caso tiver lógica particurlar, não pode fazer
+
+Ordem Sugerida para implementação dos membros de uma classe
+
+    -> Atributos Privados
+    -> Propriedades autoimplementadas
+    -> Construtores
+    -> Propriedades Customizadas
+    -> Outros Métodos da classe
+
+Modificadores de Acesso
+
+    -> public
+    -> Protected Internal
+    -> Internal
+    -> Protected
+    -> Private Protected
+    -> Private

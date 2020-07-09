@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.genruntimeconfig.cache

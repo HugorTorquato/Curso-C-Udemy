@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Construtores
+namespace Sobrecarga
 {
     class Program
     {
@@ -10,16 +10,24 @@ namespace Construtores
             //Construtor com argumentos
             //Produto p = new Produto("TV", 500, 10);
             //Console.WriteLine(p);
-            
+
+            // Linguagem Alternativa
+            // -> Funciona mesmo que sem construtores implementados
+            /* Produto p = new Produto() {
+             *  Nome = "TV",
+             *  Preco = 00.0,
+             *  Quantidade = 0
+             *  };
+             */
+
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
-            string nome = Console.ReadLine();            
+            string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
 
-            Produto p = new Produto(nome, preco, quantidade);
+
+            Produto p = new Produto(nome, preco);
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
@@ -35,7 +43,7 @@ namespace Construtores
             p.RemoverProdutos(qte);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
-            
+
         }
     }
 }
