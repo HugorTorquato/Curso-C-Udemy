@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\bin\Debug\netcoreapp3.1\ExecLista.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecLista\ExecLista\obj\Debug\netcoreapp3.1\ExecLista.genruntimeconfig.cache

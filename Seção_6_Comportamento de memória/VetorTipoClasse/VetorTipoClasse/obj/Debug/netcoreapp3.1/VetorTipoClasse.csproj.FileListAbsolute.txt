@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\bin\Debug\netcoreapp3.1\VetorTipoClasse.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\VetorTipoClasse\VetorTipoClasse\obj\Debug\netcoreapp3.1\VetorTipoClasse.genruntimeconfig.cache

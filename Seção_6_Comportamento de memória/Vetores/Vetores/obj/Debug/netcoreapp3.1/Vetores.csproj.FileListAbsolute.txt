@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

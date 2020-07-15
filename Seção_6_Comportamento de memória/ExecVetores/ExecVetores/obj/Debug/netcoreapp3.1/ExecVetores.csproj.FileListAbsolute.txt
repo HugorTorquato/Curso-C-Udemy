@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\bin\Debug\netcoreapp3.1\ExecVetores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecVetores\ExecVetores\obj\Debug\netcoreapp3.1\ExecVetores.genruntimeconfig.cache

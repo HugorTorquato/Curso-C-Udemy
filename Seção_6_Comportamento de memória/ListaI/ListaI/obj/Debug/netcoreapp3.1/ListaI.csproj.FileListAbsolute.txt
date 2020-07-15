@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\bin\Debug\netcoreapp3.1\ListaI.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ListaI\ListaI\obj\Debug\netcoreapp3.1\ListaI.genruntimeconfig.cache

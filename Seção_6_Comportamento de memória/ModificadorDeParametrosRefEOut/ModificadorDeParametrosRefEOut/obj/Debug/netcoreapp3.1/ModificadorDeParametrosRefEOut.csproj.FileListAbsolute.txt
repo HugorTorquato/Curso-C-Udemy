@@ -1,0 +1,12 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ModificadorDeParametrosRefEOut\ModificadorDeParametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeParametrosRefEOut.genruntimeconfig.cache

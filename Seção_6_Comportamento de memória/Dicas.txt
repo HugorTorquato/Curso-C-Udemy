@@ -45,4 +45,101 @@ Nullable
 
 Vetores
 
-    -> 
+    -> Arranjos unidimensionais
+    -> Estruturas de dados de mesmo tipo ordenados
+    -> Alocada de uma vez só, em um bloco contido de memória
+
+    -> + 
+        -> Acesso Imediato aos elementos 
+    -> --
+        -> Tamanho Fixo, tem de realocar todos os elementos de uma só vez. Caso tenha alterações tem de realocar tudo
+        -> Dificuldade para se realizar inserções e deleções
+    
+    -> Posições sempre começam por zero
+    -> Nomenclatura <double[] NOME_VET = new double[n];>
+
+    -> Armazenar objetos do tipo classe
+
+        -> cria um vetor de N tamanhos valendo null cada uma.
+        -> Qaundo quiser colocar um produto no vetor, tem que onstanciar ele antes
+        -> Tem de instanciar o VETOR e os OBJETOS do vetor quando trabalha com vetor de classes
+
+-> Modificador de parametros (params)
+    -> Não precisa instanciar o vetor no inicio da função ( na chamada da função)
+    -> Na função tem que colocar "params" no atributo da função dentro da classe
+    -> Definição de funções com parametros variáveis
+    -> params + declaração de entrada como vetor
+
+-> Modificador de parametros (Ref e Out)
+
+    -> Ref
+        -> Antes da chamada e na declaração da função na classe
+        -> Passa o valor como referência e não o valor completo declarada
+        -> Exige que a variável seja iniciada
+        -> EX:
+            -> Chamada : Calculator.Triple(ref a);
+            -> Função : public static void Triple(ref int x)
+    -> Out
+        -> Faz o parametro ser uma ref para a original
+        -> não exige que a variável original seja iniciada
+        -> usado apra variáveis de saída, declara uma variável que vai receber o valor do resultado da função
+        -> Cria um escopo vazio que receberá o valor futuro
+
+-> Boxing e UnBoxing
+
+    -> Custo de processamento e memória
+
+    -> Boxing
+        -> Processo de conversão de um objeto tipo valor para tipo competÊncia compativel
+
+    ->UnBoxing
+        -> Caminho inverso
+
+-> Sintaze opcional: laço foreach
+
+    -> sintaxe simplificada para percorrer coleções
+    ->
+    - EX:
+        -> STRING[] VECT = NEW STRING[] { "Maria","Bob"}
+        -> foreach (STRING OBJ IN VECT){
+        }
+
+-> lista
+
+    -> Dados do mesmo tipo ordenados
+    -> Inicia vazia e os elemtntos são alocados por demanda ( Commeça vazia e vai adicionando elemtnos gradualmente)
+    -> Cada elemnto ocupa um nodo da lista ( Cada elemento ocupa um nodo e apotna para outro, menos o ultimo, que não aponta para nada)
+    -> Usar a classe list ( tem de colocar using System.Collections.Generic    )
+    
+    -> Declaração:
+        -> Declaração
+            ->List<string> list;
+        -> Declaração + instanciação vazia
+            ->List<string> list2 = new List<string>();
+        -> Declaração + instanciação com valores
+            ->List<string> list3 = new List<string> { "Maria", "Alex" };
+    -> +
+        -> Tamanho variável
+        -> Facilidade para ser realizada inserções
+    -> --
+        -> Acesso sequencial aos elementos 
+
+    -> Comandos :
+
+        -> Add -> Adicionar elemento do tipo da lista, adiciona no final da lista
+        -> Insert -> Especifica qual a posição que quer inserir
+        -> Count -> Tamanho da lista 
+        -> Find -> Encontra o primeiro ou ultimo elemtno da lista que satisfaça o predicado
+            -> Predicado -> Função, Pega um valor e retorna verdadeiro ou falso conforme a lógica da função.
+                -> Pode trocar por uma expressão lambda ( PARAM => PARAM[X] == CONDIÇÃO )
+            
+        -> Filtrar (FindAll) -> Cria uma nova lista que respeitem o predicado
+            -> Tem de declarar uma nova lista
+
+        -> RemoveAll -> Remove o elemento que corresponde ao predicado
+        -> RemoveAt -> Remove o elemnto que está na posição
+        -> RemoveRange -> Remove elementos d uma faixa
+            -> list.RemoveAll({1}, {2}) -> {1} -> Número do indice da posição Inicializar
+                                        -> {2} -> Quantas posições deseja Remover
+
+        
