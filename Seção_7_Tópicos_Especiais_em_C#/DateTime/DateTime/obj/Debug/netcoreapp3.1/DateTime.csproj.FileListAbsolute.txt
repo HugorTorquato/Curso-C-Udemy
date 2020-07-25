@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache

@@ -1,0 +1,94 @@
+Topicos em C#
+
+
+
+Palavra VAR
+
+     -> int x  ->> var x
+     -> o tipo é inferido conforme inicia a variável
+     -> O compilador entende qual o tipo da variável
+    
+     -> Uma comodidade, porem pode abrir brecha apra descuidos
+
+
+SWITCH-CASE
+
+    -> Estrutura opcional a vários if-else quando a condiçãoenvolve o teste de um valor de variável
+
+    -> var minhaVariavel = (...);
+    -> switch (minhaVariavel){
+        case 1:
+            Conlose.WriteLine("Caso 1");
+            break;
+        case 2:
+            Conlose.WriteLine("Caso 1");
+            break;
+        default:
+            Conlose.WriteLine("Caso 1");
+            break;
+
+    }
+
+Expressão condicional ternária
+
+    -> ( CONDIÇÃO ) ? VALOR SE VERDADEIRO : VALOR SE FALSO
+
+    -> EXEMPLO:
+        -> (2>4) ? 1:0 ->>>> 0
+
+Funções para string
+
+    -> .ToUpper(); -> Converte para Maiusculo
+    -> .ToLower(); -> Converte tudo para Minusculo
+    -> .Trin.();   -> Apaga os espaços em branco
+    -> .IndexOf("DESEJADO"); -> Retorna o index da primeira ocorrÊncia
+    -> .LastIndexOf("DESEJADO"); -> Último index do desejavel
+    -> .Substring(INDICE INICIAL, TAMANHO PARA CORTAR) -> Cortar a string apartir do index inicial, opcionalmente pode determinar quantos caracteres manter ( no segundo argumento)
+    -> .Replace('A', 'B') -> Substitui caracter ( troca todos os a por b) -> da para fazer com string tbm
+    -> bool B1 = String.IsNullOrEmpty(STRING) -> Testa se a STRING tem valor nulo ou vazio e retorna verdade ou falso para B1
+    -> bool B2 = String.IsNullOrWritespace(STRING) -> Testa se é nula ou só espaço em branco
+
+
+
+    -> string é imutável, o que rola é alocar uma nova string e o apontamento muda
+
+Representando data e hora
+
+    -> DateTime
+        -> Represennta um INSTANTE, um tipo de valor struckt
+    -> Internamente
+        -> Armazena o número de ticks ( 100 nanosegundos) desde a criação do tempo comum
+        -> Internamente ele trabalha com o tick, um número monstruoso
+
+    -> Exemplo no código
+
+TimeSpan
+    -> Representa uma duração -> intervalo entre dois instantes
+    -> tipo struckt
+
+    -> armazena uma duração na forma de ticks entre os tempos
+    -> Exemplo no código
+
+Operações com DateTime e TimeSpan -> (No material de Apoio )
+    -> Pode fracionar o Datetime em várias informações secundárias
+    ->  Da para printar em formatos diferetes 
+
+    -> tem como fazer operações tbm
+
+DateTimeKind 
+    -> Tipo enumerado especial que define 3 valores possíveis para a localodade da data
+        -> localodade
+        -> UTC
+        ->Unspecified
+
+    -> defoult local
+
+    -> Boa prática, 
+        ->armazenar no formato UTC
+        -> Instanciar e mostrar em horário local
+
+        -> Função para conversão
+            -> myDate.ToLocalTime();
+            -> myDate.ToUniversalTime();
+
+

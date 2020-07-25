@@ -1,0 +1,4 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_7_Tópicos_Especiais_em_C#\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache
