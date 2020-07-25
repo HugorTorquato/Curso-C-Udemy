@@ -142,4 +142,23 @@ Vetores
             -> list.RemoveAll({1}, {2}) -> {1} -> Número do indice da posição Inicializar
                                         -> {2} -> Quantas posições deseja Remover
 
+
+    -> Para acessar uma lista de classes tem de criar uma nova classe auxiliar, deletar a antiga e inserir a atualizada no lugar
+    
+
+    -> MATRIZ
+
+        -> Arranjos Bidimensionais
+
+        -> Arranjo é uma estrutura de dados
+            -> Homogênea ( dados do mesmo tipo)
+            -> Ordenadas ( elementos acessados por meio de posições)
+            -> Alocada de uma vez só ( um blco contíguo de memória)
+
+        -> +
+            -> Acessp Imediato aos elementos pela sua posição
+        -> -
+            -> Tamanho Fixo
+            -> Dificuldade de inserções e deleções
+
         

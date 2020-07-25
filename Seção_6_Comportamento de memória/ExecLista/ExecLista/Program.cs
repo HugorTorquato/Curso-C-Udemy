@@ -55,20 +55,11 @@ namespace ExecLista
                 Console.Write(" Input the raise (%): ");
                 double raise = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 EmpChanges.SalaryRaise(raise);
-
-                Console.WriteLine(EmpChanges);
-                Console.WriteLine();
-
             }
             else
             {
                 Console.WriteLine(" There is no Emploee with this ID, please try again ");
             }
-
-
-
-
-
 
             foreach (Employee obj in Emplo)
             {

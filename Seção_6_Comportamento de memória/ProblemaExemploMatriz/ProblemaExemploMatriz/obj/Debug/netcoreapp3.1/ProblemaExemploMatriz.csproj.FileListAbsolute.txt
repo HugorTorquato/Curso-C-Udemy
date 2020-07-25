@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\bin\Debug\netcoreapp3.1\ProblemaExemploMatriz.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.genruntimeconfig.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ProblemaExemploMatriz\ProblemaExemploMatriz\obj\Debug\netcoreapp3.1\ProblemaExemploMatriz.csprojAssemblyReference.cache

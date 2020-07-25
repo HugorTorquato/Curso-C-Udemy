@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.exe
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.deps.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.runtimeconfig.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\bin\Debug\netcoreapp3.1\ExecFixaçãoMatriz.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.dll
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.pdb
+C:\Users\hugo1\Desktop\C# .net\Udemy C#\Seção_6_Comportamento de memória\ExecFixaçãoMatriz\ExecFixaçãoMatriz\obj\Debug\netcoreapp3.1\ExecFixaçãoMatriz.genruntimeconfig.cache
