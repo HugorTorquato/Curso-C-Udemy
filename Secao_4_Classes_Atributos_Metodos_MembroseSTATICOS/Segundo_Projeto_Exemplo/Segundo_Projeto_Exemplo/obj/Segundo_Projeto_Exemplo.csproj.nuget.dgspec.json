@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo1\\Desktop\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj": {}
+    "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo1\\Desktop\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj": {
+    "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo1\\Desktop\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj",
+        "projectUniqueName": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj",
         "projectName": "Segundo_Projeto_Exemplo",
-        "projectPath": "C:\\Users\\hugo1\\Desktop\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj",
+        "projectPath": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo.csproj",
         "packagesPath": "C:\\Users\\hugo1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo1\\Desktop\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\obj\\",
+        "outputPath": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Secao_4_Classes_Atributos_Metodos_MembroseSTATICOS\\Segundo_Projeto_Exemplo\\Segundo_Projeto_Exemplo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

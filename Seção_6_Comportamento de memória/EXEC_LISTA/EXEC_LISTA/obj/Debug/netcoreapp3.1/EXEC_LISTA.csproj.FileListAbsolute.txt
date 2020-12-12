@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.exe
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.deps.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.runtimeconfig.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\bin\Debug\netcoreapp3.1\EXEC_LISTA.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\EXEC_LISTA\EXEC_LISTA\obj\Debug\netcoreapp3.1\EXEC_LISTA.genruntimeconfig.cache

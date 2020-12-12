@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1vWGW4pWNrxAhQeyyjQXmXmV7sNes1XPhBzAzw0CpO0v96BJhBfwAxLvrMqaCrj2w3CV1nDGUas4ien8vEpjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Seção_6_Comportamento de memória\\EXEC_LISTA\\EXEC_LISTA\\EXEC_LISTA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

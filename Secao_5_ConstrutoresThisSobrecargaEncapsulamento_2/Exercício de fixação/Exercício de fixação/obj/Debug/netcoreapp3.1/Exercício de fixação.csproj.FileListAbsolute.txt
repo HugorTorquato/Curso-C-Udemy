@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.exe
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.deps.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.runtimeconfig.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Secao_5_ConstrutoresThisSobrecargaEncapsulamento_2\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.genruntimeconfig.cache

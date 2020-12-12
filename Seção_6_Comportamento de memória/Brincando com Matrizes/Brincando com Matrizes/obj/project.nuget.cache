@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnW7QcYgKjWUj98FQOSIBaYUPUwwIgDLgDRtm9YJcWIMIe1eRkjCJ8F5dmY+dAf3QlxTGNrVepdWXCUPuK709Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Seção_6_Comportamento de memória\\Brincando com Matrizes\\Brincando com Matrizes\\Brincando com Matrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

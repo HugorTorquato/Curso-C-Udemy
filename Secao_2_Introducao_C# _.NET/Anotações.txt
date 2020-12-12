@@ -1,0 +1,37 @@
+
+	Criar projeto:
+		-> Arquivo/Novo/Projeto
+			-> Aplicativo de Console (.NET Core )
+			
+		-> CTRL + K + D -> Identação automática 
+
+	Estrutura dos arquivos
+		-> .sln
+			Arquivo da solução, por meio desse arquivo que abre o projeto
+			
+		-> .csproj
+			Arquivo de configuração do projeto. Só altera quando tiver de colocar dependÊncia
+			
+		-> .cs
+			Arquivo da linguagem C#
+			
+		-> OBJ/BIN
+			Guarda os arquivos compilados nessas pastas depois que execulta o programa
+			
+	
+	Estrutura do código
+		
+		-> using System
+			-> Ref para o namespace chamado System	
+				padrão do .NET com funções de manipulação para usar no programa
+				
+		-> namespace
+			-> quatão de organização
+				-> o programa fica dentro de um namespace e pode ser chamado 
+				-> Questão de organização
+		
+		-> CLASSE
+			-> programação orientada objeto
+				
+				
+	

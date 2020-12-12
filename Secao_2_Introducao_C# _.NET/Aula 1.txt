@@ -1,0 +1,37 @@
+
+
+
+
+-> Dois modulos
+
+	-> Igor
+		
+		-> Inserção no sistema elétrico de potência
+		-> Problemas que causam no sistema elétrico + soluções
+		-> Utilizar armazenadores de energia
+		->
+		
+	
+	-> Thales
+	
+		-> forte iteração
+		-> disponível para suporte
+		-> Gravar aulas
+		-> listas de exercicio e trabalhos
+		-> 
+		
+		-> dimensionamento da caracterização do sistema
+		
+
+-> Disciplina
+
+	-> Dimensionamento, caracteristicas, forma de operação, vantagens e desvantagens
+	-> não se limitam à baterias
+	-> bombeamento de agua e ar comprimido, maiores amarzenadores
+	-> 
+	
+	
+	
+	
+	-> Energia != potência
+	-> 

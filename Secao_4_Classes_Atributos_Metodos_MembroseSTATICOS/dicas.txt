@@ -32,16 +32,55 @@ Classe:
 Método:
 
     -> Delega as operações para as classes
+	
+	-> Exemplo
+	
+		-> Como está dentro da classe, acaba acessando os atributos da classe em questão
+			Indifere ser triangulo A, B ou C no exemplo
+	
+		clas Triangulo {
+		
+			public double A;
+			public double B;
+			public double C;
+			
+			public double Area(){
+				double p = (A + B + C )/2
+				return (p)
+			}
+		
+		}
 
 UML
 
     -> Ferramenta para visualizar as classes no projeto
+	
+	-> Linguagem grafica para desenhar projetos
+	-> 1* nome da classe
+	   2* atributo da classe
+	   3* metodos da classe
 
 ToString
 
     -> Toda classe é uma subclasse de Object, logo toda classe é um Object
         -> ToString -> Converte o objeto para string, declara dentro da classe
 
+	-> chama a função somente pelo nome da classe "p" no caso dos testes do produto
+	-> Exemplo
+	
+		public override string ToString() // overrride -> Operação veio de outra classe 
+		// Toda vez que colocar o objeto dentro de um WriteLine, chama esse metodo e faz a operação
+        {
+            return Nome
+                + ", $ "
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, Total: $"
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+        }
+		
+		
 Membros Estáticos
 
     -> Membros de classe ( Atributo, método ...)

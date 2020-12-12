@@ -1,0 +1,13 @@
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.exe
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.deps.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.runtimeconfig.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\bin\Debug\netcoreapp3.1\BrincandoComListas.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.csprojAssemblyReference.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.dll
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.pdb
+C:\Users\hugo1\Desktop\Travamento\C# .net\Udemy C#\Seção_6_Comportamento de memória\BrincandoComListas\BrincandoComListas\obj\Debug\netcoreapp3.1\BrincandoComListas.genruntimeconfig.cache

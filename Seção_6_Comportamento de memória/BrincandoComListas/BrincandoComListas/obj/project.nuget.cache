@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "11rAqSNeqX3/G9ASmyIuMafdyG459a+SePhnxoB8msDEo/1JzV73JGA98mz4Lmmt4PGPhblLgrXuhpaQV6XOHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo1\\Desktop\\Travamento\\C# .net\\Udemy C#\\Seção_6_Comportamento de memória\\BrincandoComListas\\BrincandoComListas\\BrincandoComListas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hugo1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
