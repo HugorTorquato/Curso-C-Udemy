@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\bin\Debug\netcoreapp3.1\Enum_Exec2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\Enum_Exec2\Enum_Exec2\obj\Debug\netcoreapp3.1\Enum_Exec2.genruntimeconfig.cache
