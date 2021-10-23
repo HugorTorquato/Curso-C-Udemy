@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\bin\Debug\netcoreapp3.1\ProposedExec.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_9_Enumeração_e_composição\ProposedExec\ProposedExec\obj\Debug\netcoreapp3.1\ProposedExec.genruntimeconfig.cache

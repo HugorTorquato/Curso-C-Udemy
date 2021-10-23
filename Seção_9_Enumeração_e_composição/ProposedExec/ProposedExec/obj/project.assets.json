@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\Enumerados1\\Enumerados1\\Enumerados1.csproj",
-      "projectName": "Enumerados1",
-      "projectPath": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\Enumerados1\\Enumerados1\\Enumerados1.csproj",
+      "projectUniqueName": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\ProposedExec\\ProposedExec\\ProposedExec.csproj",
+      "projectName": "ProposedExec",
+      "projectPath": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\ProposedExec\\ProposedExec\\ProposedExec.csproj",
       "packagesPath": "C:\\Users\\hugo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\Enumerados1\\Enumerados1\\obj\\",
+      "outputPath": "C:\\Users\\hugo1\\Desktop\\Treinamentos\\C# .net\\Udemy C#\\Seção_9_Enumeração_e_composição\\ProposedExec\\ProposedExec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
