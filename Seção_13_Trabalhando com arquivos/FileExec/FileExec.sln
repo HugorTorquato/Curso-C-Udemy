@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExec", "FileExec\FileExec.csproj", "{B4AABF99-CA43-4C06-A114-D0FF6678109A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AABF99-CA43-4C06-A114-D0FF6678109A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AABF99-CA43-4C06-A114-D0FF6678109A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AABF99-CA43-4C06-A114-D0FF6678109A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AABF99-CA43-4C06-A114-D0FF6678109A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200BAA7C-B23D-482D-B074-8E1D36A3E5E2}
+	EndGlobalSection
+EndGlobal

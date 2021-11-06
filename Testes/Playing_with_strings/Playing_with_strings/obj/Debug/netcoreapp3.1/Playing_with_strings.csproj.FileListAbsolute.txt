@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\bin\Debug\netcoreapp3.1\Playing_with_strings.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Testes\Playing_with_strings\Playing_with_strings\obj\Debug\netcoreapp3.1\Playing_with_strings.genruntimeconfig.cache

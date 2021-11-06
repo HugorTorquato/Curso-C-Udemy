@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\bin\Debug\netcoreapp3.1\FileExec.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_13_Trabalhando com arquivos\FileExec\FileExec\obj\Debug\netcoreapp3.1\FileExec.genruntimeconfig.cache
