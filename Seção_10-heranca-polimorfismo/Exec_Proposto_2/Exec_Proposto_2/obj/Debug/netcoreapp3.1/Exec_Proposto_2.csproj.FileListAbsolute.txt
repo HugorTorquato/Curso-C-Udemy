@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\bin\Debug\netcoreapp3.1\Exec_Proposto_2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_10-heranca-polimorfismo\Exec_Proposto_2\Exec_Proposto_2\obj\Debug\netcoreapp3.1\Exec_Proposto_2.genruntimeconfig.cache
