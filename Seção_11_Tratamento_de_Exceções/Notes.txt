@@ -1,0 +1,26 @@
+
+
+Exceções:
+	- Permite que os erros sejam tratados de forma consistente
+		- Delega a lógica do erro para a classe/método
+		- Vários tipos separados do systema e da aplicação
+		- Pode colocar dados, que pode sem manipulados em caso de acerte
+		- Tratar de forma hierarquica
+	- Oprograma ainda olha para o erro mas ele trata da forma que sejar, um log por exemplo
+
+
+	- Implementação:
+		- Estrutura :
+			- try   -> Código normal que pode dar erro
+			- catch -> Roda quando da ruim, especificar a exceção que vai ser tratada
+			- finally -> Roda se teve ou não exception ( fechar conexão com banco de dados por exemplo
+			- thwrow -> Pode ser usar para identificar um erro no meio do código e para a execulção e cai no catch correspondente
+
+		try{
+		}
+		catch (ExceptionType e) {
+		}	 
+		finally {
+		}
+		
+		- Exception é o tipo mais genérico

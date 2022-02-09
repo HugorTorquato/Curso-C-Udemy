@@ -1,0 +1,14 @@
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.exe
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.deps.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.runtimeconfig.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.runtimeconfig.dev.json
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\bin\Debug\netcoreapp3.1\Seção_14_Interfaces2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.csproj.AssemblyReference.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.AssemblyInfoInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.AssemblyInfo.cs
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.dll
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.pdb
+C:\Users\hugo1\Desktop\Treinamentos\C# .net\Udemy C#\Seção_14_Interfaces\Seção_14_Interfaces2\Seção_14_Interfaces2\obj\Debug\netcoreapp3.1\Seção_14_Interfaces2.genruntimeconfig.cache
